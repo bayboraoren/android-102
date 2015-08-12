@@ -19,7 +19,7 @@ public class SettingsActivity extends PreferenceActivity
         super.onCreate(savedInstanceState);
         addPreferencesFromResource(R.xml.pref_general);
         bindPreferenceSummaryToValue(findPreference(getString(R.string.pref_location_key)));
-
+        bindPreferenceSummaryToValue(findPreference(getString(R.string.pref_units_key)));
     }
 
 
