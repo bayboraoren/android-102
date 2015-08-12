@@ -12,4 +12,8 @@
     <string name="pref_location_label">Location</string>
     <string name="pref_location_key">location</string>
     <string name="pref_location_default">istanbul</string>
+
+
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
 </resources>
