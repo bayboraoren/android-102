@@ -18,6 +18,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.example.android.sunshine.app.data.WeatherContract;
+
 /**
  * A placeholder fragment containing a simple view.
  */
